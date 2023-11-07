@@ -1,6 +1,6 @@
 # KFNC
 
-### 한국미래원자력 KFNC
+### [한국미래원자력 KFNC](http://www.kfnc.co.kr)
 
 > 이 프로젝트는 프론트엔드를 담당하여 제작하였습니다.
 
@@ -56,5 +56,3 @@
 > 한국미래원자력(Partners)
 >
 > <img src="images/partners.png" alt="한국미래원자력(Partners)" />
-
-[한국미래원자력 홈페이지](http://www.kfnc.co.kr)
