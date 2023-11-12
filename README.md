@@ -10,6 +10,8 @@
     - 프론트엔드
         - React
         - Next.js
+    - 서버
+        - AWS EC2
 
 <br />
 
